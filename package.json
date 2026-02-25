@@ -1,0 +1,19 @@
+{
+  "name": "discord-ticket-system",
+  "version": "1.0.0",
+  "description": "Advanced Discord Ticket Bot System with Panel, Transcripts, Ratings, and Logging",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": ["discord", "ticket", "bot", "discordjs"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
